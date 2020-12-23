@@ -3,9 +3,6 @@ layout: post
 title: "MY FIRST BLOG IN GITHUB"
 date: 2020-12-23
 ---
-
-# MY FIRST BLOG IN GITHUB
-
 hello visitor.When you watch the blog that means my BLOG web was construct successfully.
 
 What a cheerful day!!!
