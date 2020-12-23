@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: "MY FIRST BLOG IN GITHUB"
 date: 2020-12-23
 ---
