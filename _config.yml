@@ -2,4 +2,4 @@ name: sinon
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 kramdown:
-  math_engine: MathJax
+  math_engine: mathjax
